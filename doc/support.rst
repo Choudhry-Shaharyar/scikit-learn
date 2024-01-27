@@ -66,10 +66,10 @@ Include in your report:
 
 - The ideal bug report contains a `short reproducible code snippet
   <https://scikit-learn.org/stable/developers/minimal_reproducer.html>`_,
-  this way anyone can try to reproduce the bug easily
-  (see :ref:`filing_bugs` for more details). If your snippet is longer than
-  around 50 lines, please link to a `gist <https://gist.github.com>`_ or a
-  github repo.
+  this way anyone can try to reproduce the bug easily. 
+
+- If your snippet is longer than around 50 lines, please link to a 
+  `gist <https://gist.github.com>`_ or a github repo.
 
 **Tip**: Gists are Git repositories; you can push data files to them using Git.
 
